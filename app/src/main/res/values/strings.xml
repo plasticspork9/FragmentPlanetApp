@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentAppFromScratch</string>
+    <string name="number">number</string>
+    <string name="name">name</string>
+</resources>
